@@ -44,11 +44,12 @@ Enter the no. of times Green LED blinks in 1min(Meter Counter):
 
 ## Circuit Connection Diagram with Tabulation 
 
-<img width="1103" height="478" alt="image" src="https://github.com/user-attachments/assets/5ff90202-b4f0-4469-875e-1ab888ab7ba6" />
+<img width="1050" height="837" alt="Screenshot 2026-05-26 213729" src="https://github.com/user-attachments/assets/1fe6d643-1fb2-4da1-a7bd-49b0611d805f" />
+
 
 ## Output Waveform
 
-
+<img width="941" height="303" alt="Screenshot 2026-05-26 213759" src="https://github.com/user-attachments/assets/14cbb767-20a4-4c50-87a0-e398ceac7dc1" />
 
 
 ## Result
